@@ -1,3 +1,3 @@
 
-rootProject.name = "TypeS_MultiM_ NavigationC"
+rootProject.name = "Modular-Dependency"
 include(":app")

@@ -1,4 +1,4 @@
-package com.example.types_multim_navigationc.ui.theme
+package com.example.modulardependency.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

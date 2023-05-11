@@ -1,8 +1,8 @@
 package dependencies
 object Versions {
 
-    const val compose = "1.3.0"
-    const val kotlin = "1.7.10"
+    const val compose = "1.4.3"
+    const val kotlin = "1.8.10"
 
     const val coreKtx = "1.9.0"
     const val lifecycleViewModelCompose = "2.5.1"

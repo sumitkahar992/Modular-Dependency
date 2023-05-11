@@ -1,4 +1,4 @@
-package com.example.types_multim_navigationc.ui.theme
+package com.example.modulardependency.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
